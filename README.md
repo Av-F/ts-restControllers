@@ -1,6 +1,6 @@
 # ts-restControllers
 
-You would need to get node modules to run this:
+You would need to get node modules to run this: run  npm install node-modules
 
 Additional notes:
 First lines are imports for express, fs to read/write files, path to access them and app.use is for middleware
